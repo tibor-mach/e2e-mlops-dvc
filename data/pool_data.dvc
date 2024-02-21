@@ -1,0 +1,13 @@
+md5: 51ba954f3b088c8e571c6a14d08c009f
+frozen: true
+deps:
+- path: use-cases/pool_data
+  repo:
+    url: https://github.com/iterative/dataset-registry
+    rev_lock: 0f1b2967161751e1bc6b117952588bcfca123d89
+outs:
+- md5: 14d187e749ee5614e105741c719fa185.dir
+  size: 18999874
+  nfiles: 183
+  hash: md5
+  path: pool_data
